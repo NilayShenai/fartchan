@@ -1,0 +1,5 @@
+flask
+ecdsa
+sqlite3
+requests
+jsonpickle
